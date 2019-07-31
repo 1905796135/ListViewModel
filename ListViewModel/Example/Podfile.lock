@@ -1,0 +1,16 @@
+PODS:
+  - ListViewModel (0.1.0)
+
+DEPENDENCIES:
+  - ListViewModel (from `../`)
+
+EXTERNAL SOURCES:
+  ListViewModel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ListViewModel: ca2237a0b5500b65fee01d289143e49ee7564fa0
+
+PODFILE CHECKSUM: 21b32e88cc37bada3c8316fe9c03f6538c95ffe9
+
+COCOAPODS: 1.7.5

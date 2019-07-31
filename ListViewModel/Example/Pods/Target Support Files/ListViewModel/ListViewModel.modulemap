@@ -1,0 +1,6 @@
+framework module ListViewModel {
+  umbrella header "ListViewModel-umbrella.h"
+
+  export *
+  module * { export * }
+}

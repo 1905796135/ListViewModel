@@ -1,0 +1,22 @@
+{
+  "name": "ListViewModel",
+  "version": "0.1.0",
+  "summary": "A short description of ListViewModel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/clh2046@163.com/ListViewModel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "clh2046@163.com": "caolianhua@haowu.com"
+  },
+  "source": {
+    "git": "https://github.com/clh2046@163.com/ListViewModel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ListViewModel/Classes/**/*"
+}
